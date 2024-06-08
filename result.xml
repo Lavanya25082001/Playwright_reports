@@ -1,0 +1,8 @@
+<testsuites id="" name="" tests="2" failures="0" skipped="0" errors="0" time="6.3198229999999995">
+<testsuite name="example.spec.js" timestamp="2024-04-15T05:05:38.141Z" hostname="chromium" tests="2" failures="0" skipped="0" time="7.165" errors="0">
+<testcase name="Test-10::webdriveruniversity " classname="example.spec.js" time="2.607">
+</testcase>
+<testcase name="Test-11::demoqa " classname="example.spec.js" time="4.558">
+</testcase>
+</testsuite>
+</testsuites>
