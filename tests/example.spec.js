@@ -12,7 +12,7 @@ test('Test-2::opencart', async ({ page }) => {
  
 });
 
-test.skip('Test-3::nopcommerce', async ({ page }) => {
+test('Test-3::nopcommerce', async ({ page }) => {
   await page.goto('https://demo.nopcommerce.com/');
   await expect(page).toHaveTitle('nopCommerce demo store');
 });
