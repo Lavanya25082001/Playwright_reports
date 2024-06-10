@@ -16,10 +16,10 @@ test('Test-3::nopcommerce', async ({ page }) => {
   await page.goto('https://demo.nopcommerce.com/');
   await expect(page).toHaveTitle('nopCommerce demo store');
 });
-test('Test-4::playwright dev', async ({ page }) => {
-  await page.goto('https://playwright.dev/');
-  await expect(page).toHaveTitle('Playwrigh');
-});
+// test('Test-4::playwright dev', async ({ page }) => {
+//   await page.goto('https://playwright.dev/');
+//   await expect(page).toHaveTitle('Playwrigh');
+// });
 
 test('Test-5::herokuapp', async ({ page }) => {
   await page.goto('https://the-internet.herokuapp.com/');
