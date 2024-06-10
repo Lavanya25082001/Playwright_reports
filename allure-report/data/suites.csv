@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Apr 15 10:35:38 IST 2024","Mon Apr 15 10:35:41 IST 2024","3034","chromium","example.spec.js","","","","Test-10::webdriveruniversity",""
-"passed","Mon Apr 15 10:35:38 IST 2024","Mon Apr 15 10:35:43 IST 2024","5081","chromium","example.spec.js","","","","Test-11::demoqa",""
